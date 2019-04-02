@@ -20,7 +20,7 @@
 # 介绍
 
 ### 什么是brook?
-**brook** 是一款跨平台(Linux/MacOS/Windows/Android/iOS)代理 / Vpn软件（可用于科学上网）
+**brook** 是一款跨平台(Linux/MacOS/Windows/Android/iOS)代理
 [点我进入Brook项目](https://github.com/txthinking/brook)
 
 ### 什么是brook-ok?
